@@ -11,3 +11,4 @@ N <- 50 # Sample size
 
 # C = cost of acquiring 100% of that parcel
 # A & B = index for habitat quality for a species
+# If you only protect a fraction f of the parcel, the cost would be C*f
